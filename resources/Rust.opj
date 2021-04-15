@@ -1,6 +1,6 @@
 {
   "Name": "Rust",
-  "TargetDirectory": "E:\\Servers\\Rust\\RustDedicated_Data\\Managed",
+  "TargetDirectory": "E:\\Servers\\Rust-staging\\RustDedicated_Data\\Managed",
   "Manifests": [
     {
       "AssemblyName": "Assembly-CSharp.dll",
@@ -965,7 +965,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "U4noDUPiNSqPSBM6Ny+n3z+9l9dYbiRS5omReVpP/1k=",
+            "MSILHash": "iVo2p5NC3UturlKycDJmzaiZJaHKiOcUh8NjE9yNxQ4=",
             "BaseHookName": null,
             "HookCategory": "Player"
           }
@@ -5537,7 +5537,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "U4noDUPiNSqPSBM6Ny+n3z+9l9dYbiRS5omReVpP/1k=",
+            "MSILHash": "iVo2p5NC3UturlKycDJmzaiZJaHKiOcUh8NjE9yNxQ4=",
             "BaseHookName": "OnPlayerTick",
             "HookCategory": "Player"
           }
